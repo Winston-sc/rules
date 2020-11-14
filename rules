@@ -12,6 +12,7 @@ surge_ruleset=KR,https://raw.githubusercontent.com/shangguanhongxin/for-surge/ma
 surge_ruleset=US,https://raw.githubusercontent.com/Cth1222/ClashRuleByCth/master/us.list
 surge_ruleset=UK,https://raw.githubusercontent.com/shangguanhongxin/for-surge/master/list/uk.list
 surge_ruleset=UK,https://raw.githubusercontent.com/Cth1222/ClashRuleByCth/master/all4.list
+surge_ruleset=emby,https://raw.githubusercontent.com/Winston-sc/rules/main/EMBY
 surge_ruleset=Bilibili,https://raw.githubusercontent.com/shangguanhongxin/for-surge/master/list/HKMTMedia.list
 surge_ruleset=NeteaseMusic,https://raw.githubusercontent.com/shangguanhongxin/for-surge/master/list/NeteaseMusic.list
 surge_ruleset=Youtube,https://raw.githubusercontent.com/shangguanhongxin/for-surge/master/list/YouTube.list
@@ -50,6 +51,7 @@ custom_proxy_group=Telegram`select`[]SG`[]OTHER`[]HK`[]TW`[]JP`[]USA`[]Proxy
 custom_proxy_group=NeteaseMusic`select`(etease)`[]CN`[]OTHER`[]Proxy
 custom_proxy_group=Bilibili`select`[]CN`[]HK`[]TW
 custom_proxy_group=Spotify`select`[]SG`[]OTHER`[]HK`[]TW`[]JP`[]USA`[]Proxy
+custom_proxy_group=emby`select`[]SG`[]OTHER`[]HK`[]TW`[]JP`[]USA`[]Proxy
 custom_proxy_group=Pluto TV`select`[]US`[]UK`[]Proxy
 custom_proxy_group=FINAL`select`[]SG`[]OTHER`[]HK`[]TW`[]JP`[]USA`[]Proxy
 ;设置分组标志位
