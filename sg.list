@@ -1,1 +1,14 @@
-# mewatch
+# > Mewatch
+USER-AGENT,Mewatch
+DOMAIN-SUFFIX,mewatch.sg
+DOMAIN-SUFFIX,toggle.sg
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,kaltura.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,kaltura.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,tvinci.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,sensic.net
+DOMAIN-SUFFIX,omtrdc.net
